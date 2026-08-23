@@ -1,3 +1,0 @@
-Hello from the main branch!
-This is a line that will cause a conflict. Nicholas Martoccia 2131595
-Goodbye from the main branch!

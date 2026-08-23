@@ -1,6 +1,6 @@
 # Shell Customization Profiles
 
-Transform your terminal into a powerful, beautiful, and efficient workspace! This directory contains pre-configured shell profiles for both Bash and Zsh that work across Linux and macOS systems.
+Your terminal is your workspace, it is common for people to spend a lot of time in their terminal, having a well-configured terminal can make your workflow more efficient and enjoyable. This directory provides pre-configured shell profiles for Bash and Zsh that enhance your terminal experience with features like syntax highlighting, auto-completion, Git integration, and more.
 
 ## Quick Installation
 
