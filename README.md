@@ -1,30 +1,57 @@
-# Git CLI Workshop - Champlain College 2025
+# Git CLI Workshop - Champlain College 2026
 
-This repository contains everything you need to master Git CLI, customize your shell environment, and become comfortable command-line user.
+This repository contains everything you need to start working with the Git CLI. There is extra material for students who want to learn more about shell customization and advanced Git workflows.
 
-## Quick Start with Dev Container
+## Environment Setup Options
 
-This workshop includes a fully configured development container with all necessary tools pre-installed.
+Choose **one** of the following options to work on the workshop exercises.
 
-### Prerequisites
+### Option A: Local Environment (macOS, Linux, or Windows with WSL)
 
-- Visual Studio Code
-- Docker Desktop
-- Dev Containers extension for VS Code
+If you already have a Unix-like environment configured, you can run the exercises directly on your machine.
 
-### Getting Started
+**Prerequisites:**
 
-1. Open this repository in VS Code
-2. When prompted, click "Reopen in Container" or use `Ctrl+Shift+P` → "Dev Containers: Reopen in Container"
-3. Wait for the container to build (first time only)
-4. Start learning!
+* **macOS / Linux:** Terminal with `git` installed
+* **Windows:** [WSL 2](https://www.google.com/search?q=https://learn.microsoft.com/en-us/windows/wsl/install) configured with your preferred Linux distribution (e.g., Ubuntu) and the **WSL extension** for VS Code
+* **Editor:** Visual Studio Code
+
+**Getting Started:**
+
+1. **macOS / Linux:** Open this repository folder in VS Code (`code .`) and open the integrated terminal.
+2. **Windows (WSL):**
+* Open your WSL terminal, navigate to your workspace, and launch VS Code with `code .`
+* *Or:* Open VS Code in Windows, press `Ctrl+Shift+P`, select **WSL: Connect to WSL**, and open the cloned folder.
+
+
+3. Verify your installation by running `git --version` in your terminal.
+
+---
+
+### Option B: Dev Container (Recommended for All Platforms)
+
+If you prefer not to configure a local environment, use the pre-configured development container with all tools pre-installed.
+
+**Prerequisites:**
+
+* Visual Studio Code
+* [Docker Desktop](https://www.google.com/search?q=https://www.docker.com/products/docker-desktop/) (running)
+* [Dev Containers extension](https://www.google.com/search?q=https://marketplace.visualstudio.com/items%3FitemName%3Dms-vscode-remote.remote-containers) for VS Code
+
+**Getting Started:**
+
+1. Open this repository in VS Code.
+2. When prompted, click **Reopen in Container** (or press `Ctrl+Shift+P` / `Cmd+Shift+P` → select **Dev Containers: Reopen in Container**).
+3. Wait for the container build to complete on first launch.
+
+---
 
 ## Workshop Contents
 
-- [Git CLI Essentials](#git-cli-essentials)
-- [Why CLI Matters](#why-command-line-interface-matters)
-- [Shell Customization Guide](./shell-profiles/README.md)
-- [Practice Exercises](./exercises/README.md)
+* [Git CLI Essentials](https://www.google.com/search?q=%23git-cli-essentials)
+* [Why CLI Matters](https://www.google.com/search?q=%23why-command-line-interface-matters)
+* [Shell Customization Guide](https://www.google.com/search?q=./shell-profiles/README.md)
+* [Practice Exercises](https://www.google.com/search?q=./exercises/README.md)
 
 ## Git CLI Essentials
 
@@ -32,17 +59,17 @@ This workshop includes a fully configured development container with all necessa
 
 Git CLI (Command Line Interface) is the original and most powerful way to interact with Git. While graphical interfaces exist, the command line provides:
 
-- **Complete Access**: Every Git feature is available
-- **Speed**: Faster than GUI operations
-- **Automation**: Scriptable for workflows
-- **Universality**: Works on any system
-- **Professional Standard**: Industry expectation
+* **Complete Access**: Every Git feature is available
+* **Speed**: Faster than GUI operations
+* **Automation**: Scriptable for workflows
+* **Universality**: Works on any system
+* **Professional Standard**: Industry expectation
 
 ### Why Command Line Interface Matters
 
 #### 1. **Universal Availability**
 
-CLI works everywhere - servers, containers, remote systems, and any operating system.
+CLI works everywhere—servers, containers, remote systems, and any operating system.
 
 #### 2. **Complete Feature Set**
 
@@ -53,6 +80,7 @@ Every Git operation is available through CLI. GUIs often hide advanced features.
 ```bash
 # Automate repetitive tasks
 git add . && git commit -m "Auto-update: $(date)" && git push
+
 ```
 
 #### 4. **Performance**
@@ -81,6 +109,7 @@ git config --global init.defaultBranch main
 
 # Set preferred editor
 git config --global core.editor "code --wait"
+
 ```
 
 ### Repository Basics
@@ -97,6 +126,7 @@ git status
 
 # View commit history
 git log --oneline --graph --decorate
+
 ```
 
 ### Working with Files
@@ -112,6 +142,7 @@ git commit -m "Your commit message"
 # View changes
 git diff           # Unstaged changes
 git diff --staged  # Staged changes
+
 ```
 
 ### Branching and Merging
@@ -132,6 +163,7 @@ git merge <branch-name>
 
 # Delete branch
 git branch -d <branch-name>
+
 ```
 
 ### Remote Operations
@@ -148,6 +180,7 @@ git pull origin <branch-name>
 
 # Fetch changes without merging
 git fetch origin
+
 ```
 
 ### Advanced Operations
@@ -166,11 +199,13 @@ git cherry-pick <commit-hash>
 # Reset changes
 git reset --soft HEAD~1   # Keep changes staged
 git reset --hard HEAD~1   # Discard changes completely
+
 ```
 
 ## Git Workflow Examples
 
 ### Feature Development Workflow
+
 ```bash
 # 1. Start from main branch
 git checkout main
@@ -193,9 +228,11 @@ gh pr create --title "Add user authentication" --body "Implements login/logout"
 git checkout main
 git pull origin main
 git branch -d feature/user-authentication
+
 ```
 
 ### Hotfix Workflow
+
 ```bash
 # 1. Create hotfix branch from main
 git checkout main
@@ -208,11 +245,13 @@ git commit -m "Fix security vulnerability in auth module"
 # 3. Push and create urgent PR
 git push origin hotfix/security-patch
 gh pr create --title "URGENT: Security patch" --body "Fixes CVE-2025-xxx"
+
 ```
 
 ## Git Configuration Best Practices
 
 ### Essential Aliases
+
 ```bash
 git config --global alias.st status
 git config --global alias.co checkout
@@ -222,13 +261,15 @@ git config --global alias.unstage 'reset HEAD --'
 git config --global alias.last 'log -1 HEAD'
 git config --global alias.visual '!gitk'
 git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+
 ```
 
 ### Useful Git Settings
+
 ```bash
 # Enable automatic line ending conversion
-git config --global core.autocrlf input  # For Mac/Linux
-git config --global core.autocrlf true   # For Windows
+git config --global core.autocrlf input  # For Mac/Linux/WSL
+git config --global core.autocrlf true   # For native Windows (PowerShell/CMD)
 
 # Enable colored output
 git config --global color.ui auto
@@ -238,55 +279,31 @@ git config --global push.default simple
 
 # Enable git rerere (reuse recorded resolution)
 git config --global rerere.enabled true
+
 ```
 
 ## Learning Resources
 
 ### Official Documentation
-- [Git Official Documentation](https://git-scm.com/doc)
-- [Pro Git Book](https://git-scm.com/book) (Free online)
+
+* [Git Official Documentation](https://git-scm.com/doc)
+* [Pro Git Book](https://git-scm.com/book) (Free online)
 
 ### Interactive Learning
-- [Learn Git Branching](https://learngitbranching.js.org/)
-- [GitHub Skills](https://skills.github.com/)
+
+* [Learn Git Branching](https://learngitbranching.js.org/)
+* [GitHub Skills](https://skills.github.com/)
 
 ### Advanced Topics
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
-- [Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+
+* [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
+* [Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
 ## Shell Customization
 
-This workshop includes comprehensive shell customization profiles for both Bash and Zsh. Check out the [Shell Profiles Guide](./shell-profiles/README.md) to:
+This workshop includes shell customization profiles for both Bash and Zsh. Check out the [Shell Profiles Guide](https://www.google.com/search?q=./shell-profiles/README.md) to:
 
-- Install beautiful, functional shell themes
-- Add powerful aliases and functions
-- Set up auto-completion and syntax highlighting
-- Create portable configurations for Linux and macOS
-
-## Practice Exercises
-
-Ready to practice? Head over to the [exercises folder](./exercises/README.md) for hands-on Git scenarios:
-
-- Basic Git operations
-- Branching and merging challenges
-- Conflict resolution
-- Advanced Git workflows
-
-## Contributing
-
-Found an issue or want to improve the workshop? Contributions are welcome!
-
-1. Fork this repository
-2. Create a feature branch
-3. Make your improvements
-4. Submit a pull request
-
-## License
-
-This workshop is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-Happy Git-ing!
-
-"Git good or git going!" - Anonymous Developer
+* Install shell themes
+* Add aliases and functions
+* Set up auto-completion and syntax highlighting
+* Configure environments across Linux, macOS, and WSL
