@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Add competing update for merge
+=======
+This is my feature merge update.
+>>>>>>> 2132844_feature_merge
