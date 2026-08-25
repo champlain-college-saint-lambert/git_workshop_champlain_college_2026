@@ -1,20 +1,20 @@
 
 # Git Lab Submission
 
-**Name:** [Your Name]
-**Student ID:** [Your ID]
+**Name:** Jacky Bolap
+**Student ID:** 2331914
 
 ## Exercise 1: Local Revert
 
-**Screenshot of leaked secret in Git log:**
+![Leaked secret in Git](leaked_secret.png)
 
 
-**Screenshot of clean Git log after soft reset:**
+![Clean Git log after soft reset](clean_history.png)
 
 
 ## Exercise 2: Merge Resolution
 
-**Screenshot of merge commit graph:**
+![Merge Commit graph](merge_graph.png)
 
 
 ## Exercise 3: Rebase Resolution
