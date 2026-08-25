@@ -7,17 +7,17 @@
 
 **Screenshot of leaked secret in Git log:**
 
-![Leaked secret](leaked_secret.png)
+![Leaked Secret](leaked_secret.png)
 
 **Screenshot of clean Git log after soft reset:**
 
-![Clean history](clean_history.png)
+![Clean History](clean_history.png)
 
 ## Exercise 2: Merge Resolution
 
 **Screenshot of merge commit graph:**
 
-![Merge graph](merge_graph.png)
+![Merge Graph](merge_graph.png)
 
 ## Exercise 3: Rebase Resolution
 
@@ -26,7 +26,7 @@
 
 **Screenshot of rebased commit graph:**
 
-![Rebase graph](rebase_graph.png)
+![Rebase Graph](rebase_graph.png)
 
 ## Exercise 4: Pull Request
 
