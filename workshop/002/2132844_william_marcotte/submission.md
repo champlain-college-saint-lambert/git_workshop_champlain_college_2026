@@ -40,9 +40,9 @@
 
 
 
-\*\*Original Feature Commit Hash:\*\* `\[Paste old 7-character hash here]`
+\*\*Original Feature Commit Hash:\*\* `\81c115e`
 
-\*\*New Feature Commit Hash:\*\* `\[Paste new 7-character hash here]`
+\*\*New Feature Commit Hash:\*\* `\7308c69`
 
 
 
