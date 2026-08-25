@@ -27,4 +27,4 @@
 
 ## Exercise 4: Pull Request
 
-**Screenshot of your opened Pull Request:**
+**Screenshot of your opened Pull Request:*![alt text](pull_request.png)*
