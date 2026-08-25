@@ -19,7 +19,7 @@
 
 ## Exercise 3: Rebase Resolution
 
-**Original Feature Commit Hash:** `[Paste old 7-character hash here]`
+**Original Feature Commit Hash:** `30a8644`
 **New Feature Commit Hash:** `[Paste new 7-character hash here]`
 
 **Screenshot of rebased commit graph:**
