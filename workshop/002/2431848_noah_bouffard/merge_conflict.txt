@@ -1,1 +1,1 @@
-Competing merge update.
+Feature and competing merge update.
