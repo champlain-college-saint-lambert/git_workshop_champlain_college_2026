@@ -1,1 +1,2 @@
 Competing change for rebase
+Feature change for rebase
