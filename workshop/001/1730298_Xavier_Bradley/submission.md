@@ -1,4 +1,4 @@
-[200~
+
 # Git Lab Submission
 
 **Name:** [Your Name]
@@ -19,8 +19,9 @@
 
 ## Exercise 3: Rebase Resolution
 
-**Original Feature Commit Hash:** 
-**New Feature Commit Hash:** 
+**Original Feature Commit Hash:** 33dd265
+**New Feature Commit Hash:** 3c6a5f5
+
 
 **Screenshot of rebased commit graph:**
 
@@ -28,4 +29,4 @@
 ## Exercise 4: Pull Request
 
 **Screenshot of your opened Pull Request:**
-~
+
