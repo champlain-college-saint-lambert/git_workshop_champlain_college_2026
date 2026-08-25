@@ -1,1 +1,1 @@
-competing merge update
+This is my feature merge update and this is my competing merge update.
