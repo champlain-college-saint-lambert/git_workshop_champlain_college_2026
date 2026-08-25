@@ -1,1 +1,1 @@
-Competing rebase update.
+This is my resolved rebase update combining both branches.
