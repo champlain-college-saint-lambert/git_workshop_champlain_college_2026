@@ -1,62 +1,35 @@
+# Git Lab Submission
 
+**Name:** Loukmane Bessam
+**Student ID:** 2430635
 
-\# Git Lab Submission
+## Exercise 1: Local Revert
 
+**Screenshot of leaked secret in Git log:**
 
+![Leaked secret](leaked_secret.png)
 
-\*\*Name:\*\* Loukmane Bessam
+**Screenshot of clean Git log after soft reset:**
 
-\*\*Student ID:\*\* \[2430635]
+![Clean history](clean_history.png)
 
+## Exercise 2: Merge Resolution
 
+**Screenshot of merge commit graph:**
 
-\## Exercise 1: Local Revert
+![Merge graph](merge_graph.png)
 
+## Exercise 3: Rebase Resolution
 
+**Original Feature Commit Hash:** `4c22bfe`
+**New Feature Commit Hash:** `9de8a2a`
 
-\*\*Screenshot of leaked secret in Git log:\*\*
+**Screenshot of rebased commit graph:**
 
+![Rebase graph](rebase_graph.png)
 
+## Exercise 4: Pull Request
 
+**Screenshot of your opened Pull Request:**
 
-
-\*\*Screenshot of clean Git log after soft reset:\*\*
-
-
-
-
-
-\## Exercise 2: Merge Resolution
-
-
-
-\*\*Screenshot of merge commit graph:\*\*
-
-
-
-
-
-\## Exercise 3: Rebase Resolution
-
-
-
-\*\*Original Feature Commit Hash:\*\* `\[Paste old 7-character hash here]`
-
-\*\*New Feature Commit Hash:\*\* `\[Paste new 7-character hash here]`
-
-
-
-\*\*Screenshot of rebased commit graph:\*\*
-
-
-
-
-
-\## Exercise 4: Pull Request
-
-
-
-\*\*Screenshot of your opened Pull Request:\*\*
-
-
-
+![Pull request](pull_request.png)
