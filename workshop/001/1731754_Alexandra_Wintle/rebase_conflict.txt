@@ -1,1 +1,2 @@
-Competing rebase update.
+Competing rebase update. 
+Feature rebase update.
