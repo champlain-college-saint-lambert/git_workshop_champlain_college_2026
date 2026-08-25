@@ -1,1 +1,1 @@
-Competing rebase update.
+Competing rebase update combined with feature rebase update.
