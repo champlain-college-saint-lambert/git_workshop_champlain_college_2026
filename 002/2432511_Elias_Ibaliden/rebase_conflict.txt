@@ -1,1 +1,1 @@
-Competing rebase update.
+This file includes both the competing rebase update and the feature rebase update.
