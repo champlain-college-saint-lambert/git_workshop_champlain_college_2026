@@ -1,9 +1,9 @@
 
 # Git Lab Submission
 
-**Name:** [Your Name]
+**Name:** Marwa Meskine
 
-**Student ID:** [Your ID]
+**Student ID:** 2432911
 
 ## Exercise 1: Local Revert
 
@@ -20,9 +20,9 @@
 
 ## Exercise 3: Rebase Resolution
 
-**Original Feature Commit Hash:** `[Paste old 7-character hash here]`
+**Original Feature Commit Hash:** fa7fff9
 
-**New Feature Commit Hash:** `[Paste new 7-character hash here]`
+**New Feature Commit Hash:** 6485ae7
 
 **Screenshot of rebased commit graph:**
 
