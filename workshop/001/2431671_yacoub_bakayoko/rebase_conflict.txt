@@ -1,0 +1,3 @@
+Competing rebase update.
+Feature rebase update.
+8f85c02 (Add feature update for rebase)
