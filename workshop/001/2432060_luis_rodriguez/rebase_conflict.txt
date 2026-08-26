@@ -1,0 +1,5 @@
+HEAD
+Competing rebase update.
+=======
+Feature rebase update.
+098eef5 (Add feature update for rebase)
