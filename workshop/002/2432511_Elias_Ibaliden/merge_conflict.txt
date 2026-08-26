@@ -1,1 +1,0 @@
-This file includes both my competing merge update and my feature merge update.
