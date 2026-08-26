@@ -32,4 +32,4 @@
 
 ## Exercise 4: Pull Request
 
-**Screenshot of your opened Pull Request:**
+![Pull request text](pull_request.png)
