@@ -26,7 +26,7 @@
 
 ## Exercise 4: Pull Request
 
-**Screenshot of your opened Pull Request:**
+![Screenshot of your opened Pull Request:](pull_request.png)
 
 ```
 
