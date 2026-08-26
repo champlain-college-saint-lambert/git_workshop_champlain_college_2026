@@ -1,7 +1,7 @@
 
 # Git Lab Submission
 
-**Name:** Alexandra Wintle
+**Name:** Alexandra Wintle.
 **Student ID:** 1731754
 
 ## Exercise 1: Local Revert
