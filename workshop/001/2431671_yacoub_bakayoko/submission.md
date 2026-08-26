@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Git Lab Submission
 
@@ -28,3 +29,6 @@
 ## Exercise 4: Pull Request
 
 **Screenshot of your opened Pull Request:**
+=======
+Placehlder Submission File
+>>>>>>> 2431671_feature_rebase
