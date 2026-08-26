@@ -7,7 +7,7 @@
 ## Exercise 1: Local Revert
 
 **Screenshot of leaked secret in Git log:**
-![alt text](image-1.png)
+![alt text](leaked_secret.png)
 
 **Screenshot of clean Git log after soft reset:**
 ![alt text](clean_history.png)
@@ -31,4 +31,4 @@
 ## Exercise 4: Pull Request
 
 **Screenshot of your opened Pull Request:**
-![alt text](image.png)
+![alt text](pullrequest.png)
