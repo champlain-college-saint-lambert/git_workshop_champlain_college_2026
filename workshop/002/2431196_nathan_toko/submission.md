@@ -8,15 +8,17 @@
 ## Exercise 1: Local Revert
 
 **Screenshot of leaked secret in Git log:**
-![alt text](leaked_secret.png)
+![Leak image](leaked_secret.png)
 
 **Screenshot of clean Git log after soft reset:**
-![alt text](clean_history.png)
+![Clean history image ](clean_history.png)
 
 
 ## Exercise 2: Merge Resolution
 
 **Screenshot of merge commit graph:**
+
+![Merge commit graph](merge_graph.png)
 
 
 ## Exercise 3: Rebase Resolution
