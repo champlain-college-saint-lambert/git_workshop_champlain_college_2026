@@ -31,4 +31,4 @@
 ## Exercise 4: Pull Request
 
 **Screenshot of your opened Pull Request:**
-![alt text](pullrequest.png)
+![alt text](pull_request.png)
