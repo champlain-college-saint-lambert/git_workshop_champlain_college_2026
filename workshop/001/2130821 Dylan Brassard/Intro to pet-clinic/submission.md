@@ -1,7 +1,10 @@
 # Pet Clinic exploration Submission
 
 **Name:** [Your Name]
+
 **Student ID:** [Your ID]
+
+**Pet Clinic Domain:** [Your Team Domain]
 
 ## Exercise 1: Find a bug and a code smell or 3 code smells in your domain.
 
