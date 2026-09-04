@@ -20,7 +20,7 @@ There is a redundant code line
 
 **List of features:**
 
-- You can search for a photo by a vet id
+- You can search for a ephoto by a vet id
 - The program can determine the content type of the photo (gif, jpeg, etc...)
 - The program can input and return default photo's if the photo or the vet can't be found
 
