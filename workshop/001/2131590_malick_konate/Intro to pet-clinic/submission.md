@@ -26,9 +26,9 @@ This indicates that raw, unparsed JSON is being passed into a field that should 
 
 **List of features:**
 
-- feature 1: User registration (sign up) with email/username uniqueness validation
-- feature 2: Delete user accounts
-- feature 3: Update user profile information (username, email)
+- User registration (sign up) with email/username uniqueness validation
+- Delete user accounts
+- Update user profile information (username, email)
 
 ## Exercise 3: Run a query on your domain's main table.
 
