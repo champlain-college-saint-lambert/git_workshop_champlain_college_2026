@@ -12,7 +12,6 @@
 **Screenshot of clean Git log after soft reset:**
 ![alt text](clean_history.png)
 
-
 ## Exercise 2: Merge Resolution
 
 **Screenshot of merge commit graph:**
