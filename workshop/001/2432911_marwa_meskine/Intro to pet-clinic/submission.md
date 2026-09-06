@@ -38,8 +38,8 @@ the emergencyService like the visitService. Which means that if it was to be unc
 ## Exercise 3: Run a query on your domain's main table.
 
 **Screenshot of the query result:**
-![Screenshot 2026-09-04 at 14.20.16.png](Screenshot 2026-09-04 at 18.47.18.png)
+![Screenshot 2026-09-04 at 14.20.16.png](Screenshot%202026-09-04%20at%2018.47.18.png)
 ## Exercise 4: Look at the logs of your main service.
 
 **Screenshot of logs:**
-![Screenshot 2026-09-04 at 14.20.16.png](Screenshot 2026-09-04 at 14.20.16.png)
+![Screenshot 2026-09-04 at 14.20.16.png](Screenshot%202026-09-04%20at%2014.20.16.png)
