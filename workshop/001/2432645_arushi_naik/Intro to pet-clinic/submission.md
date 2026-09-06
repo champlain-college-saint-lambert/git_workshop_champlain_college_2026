@@ -1,10 +1,10 @@
 # Pet Clinic exploration Submission
 
-**Name:** [Arushi Naik]
+**Name:** Arushi Naik
 
-**Student ID:** [2432645]
+**Student ID:** 2432645
 
-**Pet Clinic Domain:** [Billing(Bills)]
+**Pet Clinic Domain:** Billing(Bills)
 
 ## Exercise 1: Find a bug and a code smell 
 **Screenshot of the bug:**
