@@ -1,35 +1,35 @@
-# Git Lab Submission
+# Pet Clinic exploration Submission
 
-**Name:** Arushi Naik
-**Student ID:** 2432645
+**Name:** [Arushi Naik]
 
-## Exercise 1: Local Revert
+**Student ID:** [2432645]
 
-**Screenshot of leaked secret in Git log:**
+**Pet Clinic Domain:** [Bills]
 
-![Leaked Secret](leaked_secret.png)
+## Exercise 1: Find a bug and a code smell or 3 code smells in your domain.
 
-**Screenshot of clean Git log after soft reset:**
+**Screenshot of the bug:**
 
-![Clean History](clean_history.png)
+**Small description of the bug:**
 
-## Exercise 2: Merge Resolution
+> If you could not find a bug, remove the section above and duplicate the below section for each code smell.
 
-**Screenshot of merge commit graph:**
+**Screenshot of the code smell:**
 
-![Merge Graph](merge_graph.png)
+**Small description of the code smell:**
 
-## Exercise 3: Rebase Resolution
+## Exercise 2: Make a list of your domain's features.
 
-**Original Feature Commit Hash:** `0cf48b0`
-**New Feature Commit Hash:** `d2b3c70`
+**List of features:**
 
-**Screenshot of rebased commit graph:**
+- feature 1
+- feature 2
+- feature 3
 
-![Rebase Graph](rebase_graph.png)
+## Exercise 3: Run a query on your domain's main table.
 
-## Exercise 4: Pull Request
+**Screenshot of the query result:**
 
-**Screenshot of your opened Pull Request:**
+## Exercise 4: Look at the logs of your main service.
 
-![Pull Request](pull_request.png)
+**Screenshot of logs:**
