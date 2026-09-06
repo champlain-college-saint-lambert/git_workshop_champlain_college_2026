@@ -3,7 +3,7 @@
 **Name:** Loukmane Bessam
 
 **Student ID:** 2430635
-**Pet Clinic Domain:** [Your Team Domain]
+**Pet Clinic Domain:** Vet DOmain
 
 ## Exercise 1: Find a bug and a code smell or 3 code smells in your domain.
 
