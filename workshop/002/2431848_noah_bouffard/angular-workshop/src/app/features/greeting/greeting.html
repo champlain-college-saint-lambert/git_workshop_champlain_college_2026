@@ -1,0 +1,19 @@
+<h2>Hello, {{ name }}!</h2>
+
+<button (click)="toggleTodos()">
+  {{ showTodos() ? 'Hide' : 'Show' }} todos
+</button>
+
+<p>{{ completedCount() }} / {{ totalCount() }} done ({{ completionPercent() }}%)</p>
+
+@if (showTodos()) {
+  <ul>
+    @for (todo of todos(); track todo.label; let i = $index) {
+      <li [class.done]="todo.done" (click)="toggleDone(i)">
+        {{ todo.label }}
+      </li>
+    }
+  </ul>
+} @else {
+  <p>Todos are hidden.</p>
+}
