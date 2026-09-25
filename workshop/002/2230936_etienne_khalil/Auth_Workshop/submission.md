@@ -1,0 +1,4 @@
+"Cookie value: " eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJBZG1pbiIsImNyZWF0ZWQiOjE3OTAzNjA2NzU0NjQsInJvbGVzIjpbIkFETUlOIl0sImlkIjoiNTU3NmExNDMtOTdmMS00MTU0LTg2MzktMGRmM2RmOGNlZjFiIiwiZXhwIjoxNzkwMzY0Mjc1fQ.0PEXY3AbtAUxLv-H-vfCEPsEDMypHCxd-Cz4UIhWurhnmEQqjoq8iTKZpSxpCipqnXJypk2-AA9an5sdLZmLVw
+
+![Postman screenshot connected with header](PostmanSs.png)
+![Valid token](tokenvalidation.png)
