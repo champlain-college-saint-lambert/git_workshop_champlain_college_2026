@@ -1,0 +1,6 @@
+![Postman Screenshot connected with header](BodyScreenshot.png)
+
+Value:
+eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJBZG1pbiIsImNyZWF0ZWQiOjE3OTAzNjA0MTMzODYsInJvbGVzIjpbIkFETUlOIl0sImlkIjoiNTU3NmExNDMtOTdmMS00MTU0LTg2MzktMGRmM2RmOGNlZjFiIiwiZXhwIjoxNzkwMzY0MDEzfQ._8_bdnvhaV1137Y_hZPyvA8hFIp_DPwkfbHn13gRBf5rfxlFsDFbtUk5P5e4p9uS0MgYAYH6O8JsEt4UoQmD0w
+
+![Validated token](JWTValidated.png)
