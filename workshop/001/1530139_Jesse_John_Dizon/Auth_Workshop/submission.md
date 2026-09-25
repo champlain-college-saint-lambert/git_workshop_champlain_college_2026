@@ -1,0 +1,9 @@
+Postman Login:
+Admin User
+![alt text](image.png)
+
+Cookie: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJBZG1pbiIsImNyZWF0ZWQiOjE3OTAzNjQxNzcwOTQsInJvbGVzIjpbIkFETUlOIl0sImlkIjoiNTU3NmExNDMtOTdmMS00MTU0LTg2MzktMGRmM2RmOGNlZjFiIiwiZXhwIjoxNzkwMzY3Nzc3fQ.IgGCUdQwqBhpl1MrQINdMwcXM3N8zlwiuammQ_Hjx6E7LEz3yj5CVPynslBFZr4zlM2-5ZYdfBhUe4u5T6hL8w
+
+JWT:
+Validated Token:
+![alt text](image-1.png)
