@@ -1,0 +1,8 @@
+Cookie Value: 
+eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJBZG1pbiIsImNyZWF0ZWQiOjE3OTAzNjA1MjYwNzUsInJvbGVzIjpbIkFETUlOIl0sImlkIjoiNTU3NmExNDMtOTdmMS00MTU0LTg2MzktMGRmM2RmOGNlZjFiIiwiZXhwIjoxNzkwMzY0MTI2fQ.PYAEnfLaMknNePtKm0A2W4TlMNpzOLvVhmEMUT0KtgnuscfBvCgDLMJ4jLcDheStJFGNQtj2UN6J66wmHa6vTQ
+
+Screenshot: 
+![alt text](image.png)
+
+Exercise #2:
+![alt text](image-1.png)
