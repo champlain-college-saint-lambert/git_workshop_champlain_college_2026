@@ -9,4 +9,4 @@ Bearer=eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJBZG1pbiIsImNyZWF0ZWQiOjE3OTAzNjA3NjU2ODEs
 
 Validate the token: 
 
-![alt text](validatedtoken.png)
+![alt text](validatedtoken.png)  
