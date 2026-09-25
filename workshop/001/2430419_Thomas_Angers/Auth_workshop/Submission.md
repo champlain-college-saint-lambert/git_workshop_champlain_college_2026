@@ -1,0 +1,7 @@
+Auth Workshop
+
+![Postman Screenshot](PostmanScreenshot.png)
+
+Cookie value : Bearer=eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJBZG1pbiIsImNyZWF0ZWQiOjE3OTAzNjAyNjgwODYsInJvbGVzIjpbIkFETUlOIl0sImlkIjoiNTU3NmExNDMtOTdmMS00MTU0LTg2MzktMGRmM2RmOGNlZjFiIiwiZXhwIjoxNzkwMzYzODY4fQ.ZjxcfEAcrLfPxGeh1SR_Maie9mrVliZCYGtrN-vpweMaxIIrFvK8QeMoI_AQTr5HpDOKyax5lQPsDYQkTofEqw; Path=/; Secure; HttpOnly;
+
+![JWT Auth Token](JWTAuth.png)
