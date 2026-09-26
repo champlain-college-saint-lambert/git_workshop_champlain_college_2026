@@ -1,0 +1,15 @@
+Exercise 1:
+
+Screenshot:
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/39a94a9e-6559-42b5-8847-3f67fbcfbeab" />
+
+Cookie value:
+eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJBZG1pbiIsImNyZWF0ZWQiOjE3OTAzNjA4Mzk0NDUsInJvbGVzIjpbIkFETUlOIl0sImlkIjoiNTU3NmExNDMtOTdmMS00MTU0LTg2MzktMGRmM2RmOGNlZjFiIiwiZXhwIjoxNzkwMzY0NDM5fQ.dGmbvVt4jYFlixB5vf1xNOKfHNACfXm0meZpovyvav4WnBtHY6IqLEHFUE8opk6Zf_YKVWrZXDQU2r1b28HQVQ
+
+Exercise 2:
+
+Token:
+eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJBZG1pbiIsImNyZWF0ZWQiOjE3OTAzNjQyNDExNzYsInJvbGVzIjpbIkFETUlOIl0sImlkIjoiNTU3NmExNDMtOTdmMS00MTU0LTg2MzktMGRmM2RmOGNlZjFiIiwiZXhwIjoxNzkwMzY3ODQxfQ.6CwXopc6Inxfx82EA56sNRCLnOpnkGZDbWm2ELBv204-lCdaF1nP3oRgTr553ur0794snrjcsUXRsV0vB1PcbA
+
+Screenshot:
+<img width="1920" height="1020" alt="token" src="https://github.com/user-attachments/assets/7b8a9957-9ef5-4078-91e9-476a2ed559df" />
