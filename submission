@@ -1,0 +1,30 @@
+
+# Git Lab Submission
+
+**Name:** Yacoub Abdul-Hakim Nacir Bakayoko
+**Student ID:** 2431671
+
+## Exercise 1: Local Revert
+![alt text](image.png)
+**Screenshot of leaked secret in Git log:**
+
+
+**Screenshot of clean Git log after soft reset:**
+![alt text](image.png)
+
+## Exercise 2: Merge Resolution
+![alt text](<Screenshot 2026-08-25 115515.png>)
+**Screenshot of merge commit graph:**
+
+
+## Exercise 3: Rebase Resolution
+
+**Original Feature Commit Hash:  8f85c02
+**New Feature Commit Hash: 40d0e50 
+
+**Screenshot of rebased commit graph:**
+
+
+## Exercise 4: Pull Request
+
+**Screenshot of your opened Pull Request:**

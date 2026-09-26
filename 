@@ -1,0 +1,31 @@
+Merge branch '2431671_feature_rebase' into 2431671_base_branch
+
+# Conflicts:
+#	workshop/001/2431671_yacoub_bakayoko/submission.md
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please run
+#	git update-ref -d MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch 2431671_base_branch
+# Your branch is up to date with 'origin/2431671_base_branch'.
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	new file:   rebase_conflict.txt
+#	new file:   workshop/001/2431671_yacoub_bakayoko/merge_graph.png
+#	modified:   workshop/001/2431671_yacoub_bakayoko/submission.md
+#
+# Untracked files:
+#	submission
+#	workshop/001/2431671_yacoub_bakayoko/config.env
+#	workshop/001/2431671_yacoub_bakayoko/merge_conflict.txt
+#	workshop/001/2431671_yacoub_bakayoko/rebase_conflict.txt
+#	workshop/001/2431671_yacoub_bakayoko/rebase_graph.png
+#
